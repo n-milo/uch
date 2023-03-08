@@ -1,0 +1,9 @@
+cmake-build-debug/
+cmake-build-debug-coverage/
+.idea/
+.DS_Store
+
+# auto-generated files
+include/math/*vec2.h
+include/math/*vec3.h
+include/math/*vec4.h
